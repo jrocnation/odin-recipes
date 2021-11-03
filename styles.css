@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* text-align: center; */
+    margin: 50px;
+}
+
+h2 {
+    margin: 50px 0px 0px 0px;
+}
+
+a {
+    /* background-color: rgb(118, 116, 241); */
+    color: indianred;
+    /* display: block; */
+    /* margin: 0 auto; */
+
+    /* text-align: center; */
+    /* margin: 0 auto 10px auto; */
+    /* padding: 0 auto 10px auto; */
+}
+a:hover {
+    /* background-color: blue; */
+    color: gold;
+}
+
+img {
+    height: 350px;
+    width: auto;
+    display: block;
+    margin: 75px auto 0 auto;
+
+    /* display: flex; */
+
+   
+
+}
+
+.logo-icon {
+    height: 150px;
+    width: auto;
+    /* background-color: goldenrod; */
+    display: block;
+
+    /* margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 300px;
+    margin-right: 300px; */
+
+    margin: 0 auto;
+    /* position: absolute; */
+    /* top: 50%; */
+    /* right: 50%; */
+    /* left: 50%; */
+    /* bottom: 50%; */
+
+    /* justify-self: center; */
+
+    /* flex-direction: row; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* text-align: center; */
+
+}
+
+footer {
+    /* margin: 20px; */
+    /* padding: 15px; */
+    
+    
+    position:  bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: goldenrod;
+    color: indigo;
+    
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+
+}
+
+p {
+    margin: 10px;
+}
+
+ol > li, ul > li {
+    margin: 15px;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
