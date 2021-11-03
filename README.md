@@ -98,5 +98,5 @@
         KEEP IT SIMPLE
 
 
-    Nutrition? - RDI of Vitamins (for the child, and both Adults - initially adult Males)
+    Nutrition? - RDI of Vitamins (for the child, and both Adults)
     -->
